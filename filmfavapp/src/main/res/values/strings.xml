@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">filmfavapp</string>
+
+    <string name="name_movie">Movie Name</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="info">More Info</string>
+    <string name="vote_average">Vote</string>
+    <string name="vote_count">votecount</string>
+</resources>

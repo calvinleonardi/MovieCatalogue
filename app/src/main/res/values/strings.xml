@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="name_movie">Movie Name</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="info">More Info</string>
+    <string name="change_language">Change Language</string>
+    <string name="desc">Description</string>
+    <string name="release_date">Release Date</string>
+    <string name="detail_movie">Detail Movie</string>
+    <string name="tab_movie">Movies</string>
+    <string name="tab_tvshow">TV Show</string>
+    <string name="vote_average">Vote</string>
+    <string name="vote_count">votecount</string>
+    <string name="Languange">Languange</string>
+    <string name="detail_tvshow">Detail TVShow</string>
+    <string name="add_favorite">Favorite</string>
+    <string name="title_favorite_movie">Favorite Movie</string>
+    <string name="title_favorite_tv_show">Favorite TVShow</string>
+    <string name="tab_favmovie">Favorite Movie</string>
+    <string name="tab_favtvshow">Favorite TVShow</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_desc">Reminder for return to the app</string>
+    <string name="release_reminder_title">Film Release Reminder</string>
+    <string name="release_reminder_desc">Notif you the new released film</string>
+    <string name="release_reminder_message">has been released today !</string>
+    <string name="notifdesc">Hey, come back and see what popular film today !</string>
+    <string name="notification_setting_title">Notification Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>

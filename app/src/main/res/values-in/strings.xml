@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+
+    <string name="name_movie">Nama Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+    <string name="info">Info Lanjut</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="desc">Deskripsi</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="detail_movie">Detail Film</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tvshow">Acara TV</string>
+    <string name="vote_average">Vote</string>
+    <string name="vote_count">votecount</string>
+    <string name="Languange">Bahasa</string>
+    <string name="detail_tvshow">Detail Acara TV</string>
+    <string name="add_favorite">Favorit</string>
+    <string name="title_favorite_movie">Film Favorit</string>
+    <string name="title_favorite_tv_show">Acara TV Favorit</string>
+    <string name="tab_favmovie">Film Favorit</string>
+    <string name="tab_favtvshow">Acara TV Favorit</string>
+    <string name="setting">Pengaturan</string>
+    <string name="search">Pencarian</string>
+    <string name="details">Detail</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_desc">Pengingat untuk kembali ke applikasi</string>
+    <string name="release_reminder_title">Pengingat Film Keluar</string>
+    <string name="release_reminder_desc">Memberi notifikasi tentang film baru</string>
+    <string name="release_reminder_message">telah dirilis hari ini !</string>
+    <string name="notifdesc">Hai, kembali dan lihat film popular hari ini !</string>
+    <string name="notification_setting_title">Pengaturan Notifikasi</string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="add_widget">Tambah Widget</string>
+</resources>
